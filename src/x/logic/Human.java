@@ -259,7 +259,7 @@ public class Human {
         return this.pregnancy;
         // formatDate(human.getDays());
     }
-    // НЕЙРОСЕТЬ ВЫБИРАЕТ ПУТЬ
+    // Neural Network choosing the ways
     public int getGeneration(){
         return generation;
     }
